@@ -1,0 +1,5 @@
+# dsh-daemon-doctor bundle 层：插入重启诊断面板。
+- insert:
+    - id: dsh-daemon-doctor
+      name: 'dsh-daemon-doctor'
+      config: {}
